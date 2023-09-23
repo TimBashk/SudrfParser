@@ -1,0 +1,1 @@
+https://bsr.sudrf.ru/bigs/portal.html#%7B"groups":%5B"Гражданские%20и%20административные%20дела%20мировых%20судей"%5D,"type":"MULTIQUERY","multiqueryRequest":%7B"queryRequests":%5B%7B"type":"SQ","queryId":"9f5f7a3d-f52e-4ff6-a01f-d4cc2022a771","operator":"AND"%7D%5D%7D,"sorts":%5B%7B"field":"score","order":"desc"%7D%5D,"simpleSearchFieldsBundle":null,"noOrpho":false%7D

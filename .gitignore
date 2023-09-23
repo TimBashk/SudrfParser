@@ -1,1 +1,5 @@
 *.docx
+app/
+__pycache__/
+
+
